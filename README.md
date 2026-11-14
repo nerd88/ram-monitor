@@ -1,5 +1,5 @@
 # About the project
-This is a small CLI Linux program that prints out your RAM updating every second. It's free-to-use.<br>
+This is a small CLI Linux program that prints out your RAM updating every second.
 ### Requirements
 Linux<br>
 ### Built with
