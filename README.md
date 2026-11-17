@@ -17,5 +17,5 @@ gcc ram.c -o ramviewer
 ```
 4. Run
 ```sh
-sh./ramviewer
+./ramviewer
 ```
